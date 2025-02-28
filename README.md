@@ -1,4 +1,4 @@
-## Wisdom Sparke Book Store -- An Inventory Planning Project Through Pandas, NumPy & API 
+## Wisdom Sparkle Book Store -- An Inventory Planning Project Through Pandas, NumPy & API 
 ### Project Overview
 
 🎥 Presentation Link url https://docs.google.com/presentation/d/1cFXuBOhJrBxBhAgqdTXBF4CwwlaGHfubd5v7_OoMh3A/edit?usp=sharing
